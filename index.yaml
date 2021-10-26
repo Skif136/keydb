@@ -30,5 +30,5 @@ entries:
     name: keydb
     urls:
     - https://skif136.github.io/keydb/keydb-0.25.2.tgz
-    version: 0.25.2
+    version: 1.0.0
 generated: "2021-10-27T02:28:30.981675+06:00"
